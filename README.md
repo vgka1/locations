@@ -1,3 +1,3 @@
-# locations
+# Karlsruhe: Whatever Vegan
 
-Hier werden die Daten über alle Restaurants usw. abgelegt.
+Egal was, hauptsache vegan.
